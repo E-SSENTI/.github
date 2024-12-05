@@ -12,7 +12,7 @@
   <hr>
 
   <h2>Project Overview</h2>
-  <p>ESSENTI leverages cutting-edge natural language processing (NLP) and deep learning techniques to transform unstructured financial news into actionable insights.  
+  <p>ESSENTI leverages natural language processing (NLP) and deep learning techniques to transform unstructured financial news into actionable insights.  
   The system is designed to support investors by summarizing news, analyzing market sentiment, and providing tools for better decision-making.</p>
 
   <hr>
